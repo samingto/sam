@@ -1,0 +1,72 @@
+#bang {
+    background-image: url(/pics/aj1.jpg);
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: rgb(108, 108, 108);
+    background: radial-gradient(circle, rgba(108, 108, 108, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+
+
+.black-box {
+    background-color: #000;
+    padding: 2rem;
+}
+
+#ll {
+    object-fit: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+#lll {
+    background-image: url(/pics/ajjj.jpeg);
+
+}
+
+#gr {
+    background: rgb(159, 156, 156);
+    background: linear-gradient(280deg, rgba(159, 156, 156, 0.9136029411764706) 8%, rgba(159, 156, 156, 1) 63%, rgba(255, 255, 255, 0.938813025210084) 100%);
+}
+
+#gg {
+    background: rgb(159, 156, 156);
+    background: linear-gradient(90deg, rgba(159, 156, 156, 0.9136029411764706) 8%, rgba(159, 156, 156, 1) 63%, rgba(255, 255, 255, 0.938813025210084) 100%);
+}
+
+
+#lk {
+
+
+    font-size: x-large;
+
+}
+
+#boxin {
+    animation-name: kll;
+    animation-duration: 2s;
+}
+
+@keyframes kll {
+    from {
+        opacity: 0%;
+    }
+
+    to {
+        opacity: 75;
+    }
+}
+
+#ajj {
+    font-size: 5rem;
+}
+
+#nip {
+    background-color: #8C8C8C;
+}
